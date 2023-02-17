@@ -1,2 +1,0 @@
-# DATA603
-Campus ID : PP24297
